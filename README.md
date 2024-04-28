@@ -1,2 +1,2 @@
-# -Bibek-kumar-panda-.github.io
+# Bibek-kumar-panda-.github.io
 Portfolio Website
